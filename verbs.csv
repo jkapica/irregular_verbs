@@ -1,139 +1,18 @@
-be (am/is/are),"was, were",been,być
-become,became,become,"stawać się, zostawać kimś/czymś"
-begin,began,begun,zaczynać
-break,broke,broken,"łamać, pękać, rozbić, tłuc"
-bring,brought,brought,"przynosić, przyprowadzić"
-build,built,built,budować
-buy,bought,bought,kupować
-catch,caught,caught,łapać
-choose,chose,chosen,wybierać
-come,came,come,"przyjść, przyjechać"
-cost,cost,cost,kosztować
-cut,cut,cut,"ciąć, kroić, skaleczyć"
-do,did,done,robić
-draw,drew,drawn,"rysować, pociągnąć, remisować"
-dream,"dreamed, dreamt","dreamed, dreamt","śnić, marzyć"
-drink,drank,drunk,pić
-drive,drove,driven,"prowadzić, kierować się czymś"
-eat,ate,eaten,jeść
-fall,fell,fallen,"padać, upadać, spadać"
-feel,felt,felt,czuć
-find,found,found,znaleźć
-fly,flew,flown,latać
-get,got,got,dostawać
-give,gave,given,dawać
-go,went,gone,iść
-grow,grew,grown,rosnąć
-have,had,had,mieć
-hear,heard,heard,słyszeć
-hit,hit,hit,uderzać
-hold,held,held,"trzymać, utrzymywać, posiadać"
-hurt,hurt,hurt,"ranić, boleć"
-keep,kept,kept,trzymać
-know,knew,known,"znać, wiedzieć"
-learn,"learnt, learned","learnt, learned",uczyć się
-leave,left,left,"opuszczać, wyjeżdżać, zostawiać"
 lend,lent,lent,pożyczać
+let,let,let,pozwalać
+lie,lay,lain,"leżeć, kłaść się"
 lose,lost,lost,"tracić, zgubić"
 make,made,made,"robić, wykonywać"
-mean,meant,meant,"znaczyć, oznaczać; mieć na myśli"
-meet,met,met,"spotykać, poznać"
-pay,paid,paid,płacić
 put,put,put,kłaść
-read,read,read,czytać
-ride,rode,ridden,jeździć
-ring,rang,rung,dzwonić
-run,ran,run,biec
 say,said,said,mówić
 see,saw,seen,widzieć
 sell,sold,sold,sprzedawać
-send,sent,sent,"wysyłać, słać"
+shine,shone,shone,"świecić, błyszczeć"
 show,showed,shown,pokazywać
-shut,shut,shut,zamykać
-sing,sang,sung,śpiewać
-sit,sat,sat,"siedzieć, siadać"
-sleep,slept,slept,spać
-speak,spoke,spoken,"mówić, rozmawiać"
-spend,spent,spent,"spędzać, wydawać"
-stand,stood,stood,stać
+spell,spelt,spelt,literować
 steal,stole,stolen,kraść
-swim,swam,swum,pływać
-take,took,taken,brać
+sweep,swept,swept,"zmiatać, zamiatać"
 teach,taught,taught,uczyć
 tell,told,told,powiedzieć
 think,thought,thought,"myśleć, sądzić, uważać"
-throw,threw,thrown,rzucać
-wake,woke,woken,budzić
 wear,wore,worn,"nosić, zakładać"
-understand,understood,understood,rozumieć
-win,won,won,wygrywać
-write,wrote,written,pisać
-awake,awoke,awoken,obudzić
-beat,beat,beaten,bić
-bite,bit,bitten,ugryźć
-bleed,bled,bled,krwawić
-blow,blew,blown,"wiać, dmuchać"
-burn,"burned, burnt","burned, burnt","palić, parzyć, płonąć"
-dig,dug,dug,kopać (np. w ziemi)
-feed,fed,fed,"karmić, żywić"
-fight,fought,fought,"walczyć, bić się"
-forget,forgot,forgotten,zapominać
-forgive,forgave,forgiven,wybaczać
-freeze,froze,frozen,zamarzać
-hang,hung,hung,"zawieszać (coś, np. obraz)"
-hide,hid,hidden,"chować, ukrywać"
-let,let,let,pozwalać
-lie (recline),lay,lain,"leżeć, kłaść się"
-light,"lighted, lit","lighted, lit","zapalać, rozpalać, oświetlać"
-quit,quit,quit,"rzucać, opuszczać"
-rise,rose,risen,"podnosić się, wzrastać, wschodzić (o słońcu)"
-shake,shook,shaken,"trząść, potrząsać"
-shine,shone,shone,"świecić, błyszczeć"
-shoot,shot,shot,strzelać
-sink,sank,sunk,"tonąć (o statku), zapadać się"
-stick,stuck,stuck,"wbijać, wtykać, przyklejać, wystawić"
-strike,struck,struck,"uderzyć, wybijać"
-tear,tore,torn,"drzeć, rozdzierać"
-bear,bore,borne,"znosić, udźwignąć coś, żywić (urazę)"
-bend,bent,bent,"zginać, nachylać"
-breed,bred,bred,"hodować, wychować, rozmnażać się"
-cast,cast,cast,"rzucić, zrzucić"
-deal,dealt,dealt,"rozdawać, postępować, mieć do czynienia, radzić sobie"
-forbid,forbade,forbidden,zabraniać
-kneel,"knelt, kneeled","knelt, kneeled","klękać, klęczeć"
-knit,"knit, knitted","knit, knitted",robić na drutach
-lead,led,led,prowadzić
-seek,sought,sought,"szukać, poszukiwać"
-set,set,set,"umieszczać, ustawiać, zachodzić (o słońcu), osadzić, nastawić, wyznaczyć"
-shrink,shrank,shrunk,"kurczyć się, zbiegać"
-slide,slid,slid,"ślizgać się, zjeżdżać"
-split,split,split,"dzielić, rodzielać"
-spread,spread,spread,"rozchodzić się, rozprzestrzeniać, rozkładać, rozpościerać, rozsmarować"
-swear,swore,sworn,"przysięgać, przeklinać"
-sweep,swept,swept,"zmiatać, zamiatać"
-swing,swung,swung,"machnąć, zakołysać"
-arise,arose,arisen,pojawić się
-bet,bet,bet,"zakładać się, obstawiać"
-flee,fled,fled,"umykać, uciekać, opuścić"
-lay (put),laid,laid,"położyć, kłaść"
-spin,spun,spun,"kręcić, zakręcić czymś/się, obrócić"
-stink,stank,stunk,"śmierdzieć, cuchnąć"
-bind,bound,bound,"wiązać, złączyć, oprawić (książkę)"
-cling,clung,clung,"przywrzeć, uczepić się, trzymać się kurczowo"
-creep,crept,crept,"skradać się, zakradać, piąć się, podchodzić"
-fling,flung,flung,"rzucić, cisnąć"
-forsake,forsook,forsaken,"porzucać, zaniechać, opuścić"
-foretell,foretold,foretold,"przepowiadać, przewidywać"
-grind,ground,ground,"zemleć, rozkruszyć, zgrzytać, ostrzyć, trzeć"
-leap,"leapt, leaped","leapt, leaped",skakać
-saw,sawed,sawn,piłować
-shed,shed,shed,"zrzucać, pozbywać się"
-slay,slew,slain,zabijać
-sling,slung,slung,"cisnąć, miotać"
-spring,sprang,sprung,"przeskakiwać, wyskakiwać"
-sting,stung,stung,żądlić
-strive,strove,striven,"zmagać się z czymś, dążyć, starać się, podejmować wysiłek"
-tread,trod,trodden,"kroczyć, stąpać, deptać"
-weep,wept,wept,"płakać, szlochać"
-wind,wound,wound,"nawijać, nakręcać, wić się"
-wring,wrung,wrung,"wykręcić, wyżąć coś, wycisnąć"

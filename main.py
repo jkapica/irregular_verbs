@@ -7,7 +7,7 @@ from random import choice, shuffle
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
-cols = ["infinitive", "past tense", "past participle", "pl"]
+cols = ["infinitive", "past simple", "past participle", "pl"]
 
 
 def shuffled(collection):
@@ -24,7 +24,8 @@ def main(argv):
         for i, row in enumerate(reader):
             verbs[i] = row
 
-    while verbs:
+    loopctl = True
+    while verbs and loopctl:
         idx = choice(list(verbs.keys()))
         verb = verbs[idx]
         print(f'\n{idx}>>> {verb["pl"]}?')    
@@ -33,7 +34,8 @@ def main(argv):
         for c in shuffled(cols[:3]):
             print(f"{c}: ", end='')
             answer = input()
-            if answer == 'q':
+            if answer.strip() == 'q':
+                loopctl = False
                 break
             if answer == verb[c]:
                 print("OK")
@@ -42,12 +44,14 @@ def main(argv):
                 print(f"wrong, correct is: {verb[c]}")
                 answers.append(False)
 
-        if all(answers):
-            print(f"{idx}: {', '.join(verb)} -> All OK")
+        if all(answers) and len(answers) == 3:
+            print(f"{idx}: {', '.join(verb.values())} -> All OK")
             verbs.pop(idx)
         sleep(0.5)
 
-    print('BRAVO!')
+    if loopctl:
+        print('BRAVO!\n\nPress enter to finish...')
+        input()
     return 0
 
 
